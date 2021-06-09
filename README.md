@@ -1,2 +1,2 @@
-# diary
-自用
+# chatroom_java
+基于socket的Java聊天室
